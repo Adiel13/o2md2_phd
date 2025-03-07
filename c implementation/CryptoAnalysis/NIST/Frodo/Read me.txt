@@ -1,0 +1,8 @@
+Notes:
+
+1. Clean / build:
+-	make clean
+-	make
+
+2. Run:
+./frodo/PQCtestKAT_kem

@@ -1,0 +1,502 @@
+
+===== NTRU PRIME =====
+keyGeneration_0 = 7740722 ns.
+Hide r_enc: 8b1c096911161d219342da5b786afaad189631c0ad005308e0f5bf340ccf8a74
+Encryption_0 = 12821826 ns.
+Hide r_enc: 8b1c096911161d219342da5b786afaad189631c0ad005308e0f5bf340ccf8a74
+Decryption_0 = 19234026 ns.
+keyGeneration_1 = 6965318 ns.
+Hide r_enc: 67a8eb7db24eab074aee178ce34b81b3d24d385dde4002d0eacfb4b37ab94165
+Encryption_1 = 14381582 ns.
+Hide r_enc: 67a8eb7db24eab074aee178ce34b81b3d24d385dde4002d0eacfb4b37ab94165
+Decryption_1 = 19269844 ns.
+keyGeneration_2 = 6246520 ns.
+Hide r_enc: fd36cda9da626ed7277b94f14dfe5d764c1196e400bf24dcd30e447a9de2a7a7
+Encryption_2 = 13230476 ns.
+Hide r_enc: fd36cda9da626ed7277b94f14dfe5d764c1196e400bf24dcd30e447a9de2a7a7
+Decryption_2 = 19731714 ns.
+keyGeneration_3 = 6576857 ns.
+Hide r_enc: d3c32bff4ee66995d9cfe9332ea37a222a5e97fbca747e42ad4a48a8a621987e
+Encryption_3 = 14903320 ns.
+Hide r_enc: d3c32bff4ee66995d9cfe9332ea37a222a5e97fbca747e42ad4a48a8a621987e
+Decryption_3 = 21055767 ns.
+keyGeneration_4 = 6459486 ns.
+Hide r_enc: fe7c32098af5e479713e24c16ff68316f12328961b048a463b397c80f84765c9
+Encryption_4 = 14126147 ns.
+Hide r_enc: fe7c32098af5e479713e24c16ff68316f12328961b048a463b397c80f84765c9
+Decryption_4 = 18296187 ns.
+keyGeneration_5 = 6958761 ns.
+Hide r_enc: dc295fa6e8144baa25b81b4369101232f739a5a663ac78c825e83f10aa6cf53a
+Encryption_5 = 13862597 ns.
+Hide r_enc: dc295fa6e8144baa25b81b4369101232f739a5a663ac78c825e83f10aa6cf53a
+Decryption_5 = 19884264 ns.
+keyGeneration_6 = 7107933 ns.
+Hide r_enc: e06545b88980b5846fa24d8a1e892d564dc9f09772f96d974b40d5f1b50994c3
+Encryption_6 = 14113690 ns.
+Hide r_enc: e06545b88980b5846fa24d8a1e892d564dc9f09772f96d974b40d5f1b50994c3
+Decryption_6 = 19200608 ns.
+keyGeneration_7 = 6306843 ns.
+Hide r_enc: 4bc7f26608cca1c4f7a949d7b20dd78793593a7e74365f71ba2f7c82d9bb7283
+Encryption_7 = 13418779 ns.
+Hide r_enc: 4bc7f26608cca1c4f7a949d7b20dd78793593a7e74365f71ba2f7c82d9bb7283
+Decryption_7 = 20061992 ns.
+keyGeneration_8 = 6278162 ns.
+Hide r_enc: c7280ea4bfb712e8e0c42af054750120077e6a8d4dfbf419ba0d3747a11974b4
+Encryption_8 = 14516494 ns.
+Hide r_enc: c7280ea4bfb712e8e0c42af054750120077e6a8d4dfbf419ba0d3747a11974b4
+Decryption_8 = 19863130 ns.
+keyGeneration_9 = 6896276 ns.
+Hide r_enc: bfa8bd0c9caa8fdfa6ad0185ba61c01ee2247d3f36f5b2e7d780901d7855802e
+Encryption_9 = 15172491 ns.
+Hide r_enc: bfa8bd0c9caa8fdfa6ad0185ba61c01ee2247d3f36f5b2e7d780901d7855802e
+Decryption_9 = 19734690 ns.
+keyGeneration_10 = 6624905 ns.
+Hide r_enc: a76dbadc960116fee611e6a99f89d90fcce8ad4d1613aa92462fc80d0da40a87
+Encryption_10 = 13596513 ns.
+Hide r_enc: a76dbadc960116fee611e6a99f89d90fcce8ad4d1613aa92462fc80d0da40a87
+Decryption_10 = 18693243 ns.
+keyGeneration_11 = 6611422 ns.
+Hide r_enc: 72ad8091f58d732df350047fd578fd4be292acf5d11de3f27655ff27e0a2103e
+Encryption_11 = 14244495 ns.
+Hide r_enc: 72ad8091f58d732df350047fd578fd4be292acf5d11de3f27655ff27e0a2103e
+Decryption_11 = 20182963 ns.
+keyGeneration_12 = 6371853 ns.
+Hide r_enc: fb45f840849ac00b246f31df7e83b6e1fdcc1f561fca5c0cefa156a801cd5446
+Encryption_12 = 13965198 ns.
+Hide r_enc: fb45f840849ac00b246f31df7e83b6e1fdcc1f561fca5c0cefa156a801cd5446
+Decryption_12 = 18635243 ns.
+keyGeneration_13 = 7921122 ns.
+Hide r_enc: 7a45fb1147eb4d9e9031d926c1523448f1312eb90411809c4fc46c2d1b9f79b7
+Encryption_13 = 14094245 ns.
+Hide r_enc: 7a45fb1147eb4d9e9031d926c1523448f1312eb90411809c4fc46c2d1b9f79b7
+Decryption_13 = 19256364 ns.
+keyGeneration_14 = 6312653 ns.
+Hide r_enc: cb54436f48a2ee0baafc40491b9911a19805742b1ae679c4aba3d6547ba4897b
+Encryption_14 = 13401980 ns.
+Hide r_enc: cb54436f48a2ee0baafc40491b9911a19805742b1ae679c4aba3d6547ba4897b
+Decryption_14 = 20291759 ns.
+keyGeneration_15 = 6655982 ns.
+Hide r_enc: 3ead9ba47153700d0bdb70c343424bcce5e6dfe95c5545f8665edd8b4eb78b8a
+Encryption_15 = 13782825 ns.
+Hide r_enc: 3ead9ba47153700d0bdb70c343424bcce5e6dfe95c5545f8665edd8b4eb78b8a
+Decryption_15 = 18911494 ns.
+keyGeneration_16 = 6850879 ns.
+Hide r_enc: 34ab1787c1a0ca49ba314b2eeef9910d879b66c6cff464f1d6c81a347c86e99f
+Encryption_16 = 14743328 ns.
+Hide r_enc: 34ab1787c1a0ca49ba314b2eeef9910d879b66c6cff464f1d6c81a347c86e99f
+Decryption_16 = 19856167 ns.
+keyGeneration_17 = 7648904 ns.
+Hide r_enc: 4f484841c8c1b01d36df465320206483995ce572406d6d3ea7ad464d4b6c3fbf
+Encryption_17 = 13642773 ns.
+Hide r_enc: 4f484841c8c1b01d36df465320206483995ce572406d6d3ea7ad464d4b6c3fbf
+Decryption_17 = 20024653 ns.
+keyGeneration_18 = 6633122 ns.
+Hide r_enc: d2c738da41e9885a78c24fe824b90abc2401f1af32e99b35ca7c0be491de80ca
+Encryption_18 = 14220990 ns.
+Hide r_enc: d2c738da41e9885a78c24fe824b90abc2401f1af32e99b35ca7c0be491de80ca
+Decryption_18 = 19693374 ns.
+keyGeneration_19 = 6337726 ns.
+Hide r_enc: 717a3690e0b8716a4826bb94ca1299917f51008a139b449e89d75d9b854412a7
+Encryption_19 = 13966026 ns.
+Hide r_enc: 717a3690e0b8716a4826bb94ca1299917f51008a139b449e89d75d9b854412a7
+Decryption_19 = 17915442 ns.
+keyGeneration_20 = 6440676 ns.
+Hide r_enc: 105db6daf2ff2ffae1fff537e17938c3f2516510db75e560d0115784d140c7df
+Encryption_20 = 13005893 ns.
+Hide r_enc: 105db6daf2ff2ffae1fff537e17938c3f2516510db75e560d0115784d140c7df
+Decryption_20 = 19880142 ns.
+keyGeneration_21 = 6342129 ns.
+Hide r_enc: fbea70169df98269783935961bf00e321159feeb84a4add855cf15164ec41845
+Encryption_21 = 13782159 ns.
+Hide r_enc: fbea70169df98269783935961bf00e321159feeb84a4add855cf15164ec41845
+Decryption_21 = 18826616 ns.
+keyGeneration_22 = 6312407 ns.
+Hide r_enc: fce40d4d851ad0d17442041bba46e41cd5b8475a70b7c75223d0a431c3c37864
+Encryption_22 = 13160068 ns.
+Hide r_enc: fce40d4d851ad0d17442041bba46e41cd5b8475a70b7c75223d0a431c3c37864
+Decryption_22 = 22415100 ns.
+keyGeneration_23 = 7533218 ns.
+Hide r_enc: 6e7af9fae699b43d802db12f5963ba215898f9ad24c00cffea3d73da23ce1415
+Encryption_23 = 12997853 ns.
+Hide r_enc: 6e7af9fae699b43d802db12f5963ba215898f9ad24c00cffea3d73da23ce1415
+Decryption_23 = 18922435 ns.
+keyGeneration_24 = 7199014 ns.
+Hide r_enc: 5171438f622c6d313b76ae30128693f17b06024d63984af57a9ed96da40ae640
+Encryption_24 = 13361282 ns.
+Hide r_enc: 5171438f622c6d313b76ae30128693f17b06024d63984af57a9ed96da40ae640
+Decryption_24 = 19398559 ns.
+keyGeneration_25 = 6618423 ns.
+Hide r_enc: b8dfefdb8aa6f5a0453acd6ad31398af04664f1f01cd932384fa0a2e4bff135c
+Encryption_25 = 13258640 ns.
+Hide r_enc: b8dfefdb8aa6f5a0453acd6ad31398af04664f1f01cd932384fa0a2e4bff135c
+Decryption_25 = 19413730 ns.
+keyGeneration_26 = 7476024 ns.
+Hide r_enc: 1168a097564662fd87a92e5aaa95a9d38a6e14a07a5214b2f46e940dc0d0eddb
+Encryption_26 = 12626052 ns.
+Hide r_enc: 1168a097564662fd87a92e5aaa95a9d38a6e14a07a5214b2f46e940dc0d0eddb
+Decryption_26 = 19368127 ns.
+keyGeneration_27 = 6471168 ns.
+Hide r_enc: f6fa366f5ff3a79f2c3766bbd6c2c576d88df7a5fdb0e67eac6a0cff5a4ead9d
+Encryption_27 = 13841652 ns.
+Hide r_enc: f6fa366f5ff3a79f2c3766bbd6c2c576d88df7a5fdb0e67eac6a0cff5a4ead9d
+Decryption_27 = 19903664 ns.
+keyGeneration_28 = 6489258 ns.
+Hide r_enc: ca51cb1eb9e42a8f9b3ea67057ab09956103e4ba3fd0cab1f425d079afaab080
+Encryption_28 = 13617586 ns.
+Hide r_enc: ca51cb1eb9e42a8f9b3ea67057ab09956103e4ba3fd0cab1f425d079afaab080
+Decryption_28 = 18746806 ns.
+keyGeneration_29 = 7175916 ns.
+Hide r_enc: 039cd72741635059d2afe9ff908b38323e1296be55925109ed98feef1e953f82
+Encryption_29 = 13151722 ns.
+Hide r_enc: 039cd72741635059d2afe9ff908b38323e1296be55925109ed98feef1e953f82
+Decryption_29 = 21173851 ns.
+keyGeneration_30 = 7014310 ns.
+Hide r_enc: f317be4ddf8566d3502ad5c1a9489c3079f455d3c3b326bdd6ba58a0d91e8354
+Encryption_30 = 14665486 ns.
+Hide r_enc: f317be4ddf8566d3502ad5c1a9489c3079f455d3c3b326bdd6ba58a0d91e8354
+Decryption_30 = 19733514 ns.
+keyGeneration_31 = 6912296 ns.
+Hide r_enc: 6dbd2dc23cd94ac1fc658666b09dd655e086257e0e069f3f3544920d41647480
+Encryption_31 = 14395567 ns.
+Hide r_enc: 6dbd2dc23cd94ac1fc658666b09dd655e086257e0e069f3f3544920d41647480
+Decryption_31 = 20298239 ns.
+keyGeneration_32 = 6570788 ns.
+Hide r_enc: bb282b6f4cf1a27e30d5d07bb439bad51b7e0e686897c6b3bb536d1dcfba2e13
+Encryption_32 = 13301573 ns.
+Hide r_enc: bb282b6f4cf1a27e30d5d07bb439bad51b7e0e686897c6b3bb536d1dcfba2e13
+Decryption_32 = 18377153 ns.
+keyGeneration_33 = 6410094 ns.
+Hide r_enc: 92f306e290a198189ce7e033abd131e1d0b9f72c5984d408aaab6fe93739321b
+Encryption_33 = 13876237 ns.
+Hide r_enc: 92f306e290a198189ce7e033abd131e1d0b9f72c5984d408aaab6fe93739321b
+Decryption_33 = 20672272 ns.
+keyGeneration_34 = 7333062 ns.
+Hide r_enc: f37ab95542ce461419b36b132a6f18d976bbb0c293a5fef889135b8e0186aba7
+Encryption_34 = 12670234 ns.
+Hide r_enc: f37ab95542ce461419b36b132a6f18d976bbb0c293a5fef889135b8e0186aba7
+Decryption_34 = 18974996 ns.
+keyGeneration_35 = 6877699 ns.
+Hide r_enc: 175459bd11fd946d18d472bfe2842ba5a5b469a1f405fc78b1b67f7bc43c901b
+Encryption_35 = 13510474 ns.
+Hide r_enc: 175459bd11fd946d18d472bfe2842ba5a5b469a1f405fc78b1b67f7bc43c901b
+Decryption_35 = 19323165 ns.
+keyGeneration_36 = 6553067 ns.
+Hide r_enc: e3ce62c3fc0cb59dde89ef8e594107fea517fbe57f8feb275205197b8de5b910
+Encryption_36 = 13184414 ns.
+Hide r_enc: e3ce62c3fc0cb59dde89ef8e594107fea517fbe57f8feb275205197b8de5b910
+Decryption_36 = 19163321 ns.
+keyGeneration_37 = 6406431 ns.
+Hide r_enc: fc421eea1b6d492f10e6ea02e1985a6421f302e4269b789b1cad1fd5e2aeceb8
+Encryption_37 = 13846606 ns.
+Hide r_enc: fc421eea1b6d492f10e6ea02e1985a6421f302e4269b789b1cad1fd5e2aeceb8
+Decryption_37 = 19928020 ns.
+keyGeneration_38 = 6346325 ns.
+Hide r_enc: 496b95b1daf77c2d01104167c6bd2b9b0e8945c2ccaa8562b256954997c558c7
+Encryption_38 = 13743592 ns.
+Hide r_enc: 496b95b1daf77c2d01104167c6bd2b9b0e8945c2ccaa8562b256954997c558c7
+Decryption_38 = 22418842 ns.
+keyGeneration_39 = 6664474 ns.
+Hide r_enc: e1573ca8500d0d22fee1b0a10ea811522624e1ab15f31abbe08b8e9a102977cc
+Encryption_39 = 12576466 ns.
+Hide r_enc: e1573ca8500d0d22fee1b0a10ea811522624e1ab15f31abbe08b8e9a102977cc
+Decryption_39 = 20732842 ns.
+keyGeneration_40 = 6805646 ns.
+Hide r_enc: bc4442da3e22a671d1572ea27058a322a64e91f086697893087d3b9b0c67b505
+Encryption_40 = 13046746 ns.
+Hide r_enc: bc4442da3e22a671d1572ea27058a322a64e91f086697893087d3b9b0c67b505
+Decryption_40 = 19537914 ns.
+keyGeneration_41 = 6823280 ns.
+Hide r_enc: 859a905043698e18efcbbbbab9bded57f12a8cf634cc4fc5d423517c32e35144
+Encryption_41 = 14038908 ns.
+Hide r_enc: 859a905043698e18efcbbbbab9bded57f12a8cf634cc4fc5d423517c32e35144
+Decryption_41 = 18337829 ns.
+keyGeneration_42 = 7352921 ns.
+Hide r_enc: db893adeb0ae5fda269c621e71031ea67df85fa350f94bcafd5cc8541710c687
+Encryption_42 = 13061721 ns.
+Hide r_enc: db893adeb0ae5fda269c621e71031ea67df85fa350f94bcafd5cc8541710c687
+Decryption_42 = 20796936 ns.
+keyGeneration_43 = 6895200 ns.
+Hide r_enc: 76eb543cc334bcc907bf7ef091813118c75ee5d54a60f675662f1109fece9429
+Encryption_43 = 13216041 ns.
+Hide r_enc: 76eb543cc334bcc907bf7ef091813118c75ee5d54a60f675662f1109fece9429
+Decryption_43 = 19821630 ns.
+keyGeneration_44 = 6671756 ns.
+Hide r_enc: 9455408794e125fdedb70577e3aa173c0c0243c31ae5416d5afde4e98e7e25f4
+Encryption_44 = 14010664 ns.
+Hide r_enc: 9455408794e125fdedb70577e3aa173c0c0243c31ae5416d5afde4e98e7e25f4
+Decryption_44 = 19316080 ns.
+keyGeneration_45 = 6451157 ns.
+Hide r_enc: 2e4e875cae844b9cbcc0b1abfee79da45f24f4372dde79c73089e0907a5a5da9
+Encryption_45 = 13304484 ns.
+Hide r_enc: 2e4e875cae844b9cbcc0b1abfee79da45f24f4372dde79c73089e0907a5a5da9
+Decryption_45 = 18587797 ns.
+keyGeneration_46 = 6922856 ns.
+Hide r_enc: 178282546009ed9ebd4daa47fa394a4f994c45ebf85443d0674a6b59d77ead11
+Encryption_46 = 13878314 ns.
+Hide r_enc: 178282546009ed9ebd4daa47fa394a4f994c45ebf85443d0674a6b59d77ead11
+Decryption_46 = 20503406 ns.
+keyGeneration_47 = 6444947 ns.
+Hide r_enc: 8bc5c3dbf235d056f0b34879f1458e4c632787296ead23454d772e670d593917
+Encryption_47 = 13121521 ns.
+Hide r_enc: 8bc5c3dbf235d056f0b34879f1458e4c632787296ead23454d772e670d593917
+Decryption_47 = 20612325 ns.
+keyGeneration_48 = 6392246 ns.
+Hide r_enc: daf15eb4b91886add5c61beeaee17cca9b323b980f0026cecfe6c5e074fa183d
+Encryption_48 = 13282934 ns.
+Hide r_enc: daf15eb4b91886add5c61beeaee17cca9b323b980f0026cecfe6c5e074fa183d
+Decryption_48 = 20100085 ns.
+keyGeneration_49 = 7167616 ns.
+Hide r_enc: 254fbd2839b6ab4cae4d0175df6c2369a1b8f969fe8f71dd1b2a53971baff07b
+Encryption_49 = 13782867 ns.
+Hide r_enc: 254fbd2839b6ab4cae4d0175df6c2369a1b8f969fe8f71dd1b2a53971baff07b
+Decryption_49 = 18374699 ns.
+keyGeneration_50 = 6162636 ns.
+Hide r_enc: 08d3957686902ab96a71efc0f268bece31e3bd4decc0ba44eea75324919ed0f0
+Encryption_50 = 14231462 ns.
+Hide r_enc: 08d3957686902ab96a71efc0f268bece31e3bd4decc0ba44eea75324919ed0f0
+Decryption_50 = 21730075 ns.
+keyGeneration_51 = 7027408 ns.
+Hide r_enc: bd369c5ac92bdcd7ec308cd71be654dc918589917899acf57f195a3847899607
+Encryption_51 = 14392723 ns.
+Hide r_enc: bd369c5ac92bdcd7ec308cd71be654dc918589917899acf57f195a3847899607
+Decryption_51 = 18640107 ns.
+keyGeneration_52 = 5966066 ns.
+Hide r_enc: 7cba47584c4f79e0de161765f6e61b8af778c083a5d404ff0d159a44039d0827
+Encryption_52 = 15110841 ns.
+Hide r_enc: 7cba47584c4f79e0de161765f6e61b8af778c083a5d404ff0d159a44039d0827
+Decryption_52 = 20140326 ns.
+keyGeneration_53 = 6393358 ns.
+Hide r_enc: 45ee92ec02d9552c8dae04140899d3f63a7bd1ecfcb350fc21f7af71fdfb22f0
+Encryption_53 = 13961084 ns.
+Hide r_enc: 45ee92ec02d9552c8dae04140899d3f63a7bd1ecfcb350fc21f7af71fdfb22f0
+Decryption_53 = 20396098 ns.
+keyGeneration_54 = 6355150 ns.
+Hide r_enc: 452d2abea119680747c2d79a06ac59b11f99a5c47a3b3bd1a4ed66f6d6d78dec
+Encryption_54 = 14537390 ns.
+Hide r_enc: 452d2abea119680747c2d79a06ac59b11f99a5c47a3b3bd1a4ed66f6d6d78dec
+Decryption_54 = 20429468 ns.
+keyGeneration_55 = 7086349 ns.
+Hide r_enc: c1bba0d2b95329faeee72b751bd8a979e4397d941f2358da0b40aa9e04f6579b
+Encryption_55 = 14348230 ns.
+Hide r_enc: c1bba0d2b95329faeee72b751bd8a979e4397d941f2358da0b40aa9e04f6579b
+Decryption_55 = 19156906 ns.
+keyGeneration_56 = 7603246 ns.
+Hide r_enc: fbd21e106c98add52b2e2ce26694943c540a5489df249d4f7ad4fa2a55634425
+Encryption_56 = 13704302 ns.
+Hide r_enc: fbd21e106c98add52b2e2ce26694943c540a5489df249d4f7ad4fa2a55634425
+Decryption_56 = 19155255 ns.
+keyGeneration_57 = 6365765 ns.
+Hide r_enc: 3cf876fc924b12d0103d3743f665953a295b1a8ee0d551d2ef9dcd2b4b1d5a84
+Encryption_57 = 13478310 ns.
+Hide r_enc: 3cf876fc924b12d0103d3743f665953a295b1a8ee0d551d2ef9dcd2b4b1d5a84
+Decryption_57 = 20700383 ns.
+keyGeneration_58 = 6564449 ns.
+Hide r_enc: d989d7a0fcab5b17d986a1b1972a4ccdcaee470d9a48f2acd169d55b0580d08e
+Encryption_58 = 13832515 ns.
+Hide r_enc: d989d7a0fcab5b17d986a1b1972a4ccdcaee470d9a48f2acd169d55b0580d08e
+Decryption_58 = 19636771 ns.
+keyGeneration_59 = 7204413 ns.
+Hide r_enc: c6f56bedbf041ff1b931d704ceb4ae76a75bf127a23c89b337e0d77fcf3081e4
+Encryption_59 = 13565730 ns.
+Hide r_enc: c6f56bedbf041ff1b931d704ceb4ae76a75bf127a23c89b337e0d77fcf3081e4
+Decryption_59 = 20694654 ns.
+keyGeneration_60 = 6511695 ns.
+Hide r_enc: cb446e6a3b4ce73514374ce07bbb17bffeb650f08216f94e169f4cd11fe8dfa5
+Encryption_60 = 13484658 ns.
+Hide r_enc: cb446e6a3b4ce73514374ce07bbb17bffeb650f08216f94e169f4cd11fe8dfa5
+Decryption_60 = 18848232 ns.
+keyGeneration_61 = 6980068 ns.
+Hide r_enc: f571f6ccfd2d52f5ba96541c03ea7b371c41091e9d7cc4b1aa8f5db21c076d11
+Encryption_61 = 13617666 ns.
+Hide r_enc: f571f6ccfd2d52f5ba96541c03ea7b371c41091e9d7cc4b1aa8f5db21c076d11
+Decryption_61 = 20398030 ns.
+keyGeneration_62 = 6343365 ns.
+Hide r_enc: aa436b1ff06b5b3827c76dd365709e7124e2355a71b78bac4fdf8319c2cd5f94
+Encryption_62 = 14280545 ns.
+Hide r_enc: aa436b1ff06b5b3827c76dd365709e7124e2355a71b78bac4fdf8319c2cd5f94
+Decryption_62 = 18586787 ns.
+keyGeneration_63 = 6699983 ns.
+Hide r_enc: fec9802e5d4a645b7289ce21feed2b48c037d1f26d9ae744708b4812fe89b92e
+Encryption_63 = 14074964 ns.
+Hide r_enc: fec9802e5d4a645b7289ce21feed2b48c037d1f26d9ae744708b4812fe89b92e
+Decryption_63 = 19930872 ns.
+keyGeneration_64 = 7056949 ns.
+Hide r_enc: 005da732e82a9b0bd42f02d2f6156c3de65cb2311496fca0b1bcfe022c5cffde
+Encryption_64 = 13468833 ns.
+Hide r_enc: 005da732e82a9b0bd42f02d2f6156c3de65cb2311496fca0b1bcfe022c5cffde
+Decryption_64 = 19414978 ns.
+keyGeneration_65 = 6315718 ns.
+Hide r_enc: f0fc9b5e86fd188eca02902a7c5966ef365328183f87b4620b1c2a15e1e3a794
+Encryption_65 = 13951048 ns.
+Hide r_enc: f0fc9b5e86fd188eca02902a7c5966ef365328183f87b4620b1c2a15e1e3a794
+Decryption_65 = 19677348 ns.
+keyGeneration_66 = 6890262 ns.
+Hide r_enc: c35710ef6ffdab22d3a981fa5d98199620ca1d2010df7186bf7a5b3ce3fd03c5
+Encryption_66 = 13449552 ns.
+Hide r_enc: c35710ef6ffdab22d3a981fa5d98199620ca1d2010df7186bf7a5b3ce3fd03c5
+Decryption_66 = 20910020 ns.
+keyGeneration_67 = 6729555 ns.
+Hide r_enc: 858c0f0578cae680ec288fbb639852763eb4b7f8099a7cc0136131ae0fa966dc
+Encryption_67 = 13490876 ns.
+Hide r_enc: 858c0f0578cae680ec288fbb639852763eb4b7f8099a7cc0136131ae0fa966dc
+Decryption_67 = 20499280 ns.
+keyGeneration_68 = 6550725 ns.
+Hide r_enc: 963e270db8c3092eb3d38067af4822d211de5ec2e293bb388b0c08bc4a37c351
+Encryption_68 = 13980320 ns.
+Hide r_enc: 963e270db8c3092eb3d38067af4822d211de5ec2e293bb388b0c08bc4a37c351
+Decryption_68 = 19600323 ns.
+keyGeneration_69 = 6761940 ns.
+Hide r_enc: 6478cf36807b66fbc6eb42b5dc5213af4d63a5f4cc1787b604d0bad1f57d477d
+Encryption_69 = 14346003 ns.
+Hide r_enc: 6478cf36807b66fbc6eb42b5dc5213af4d63a5f4cc1787b604d0bad1f57d477d
+Decryption_69 = 17842673 ns.
+keyGeneration_70 = 5968747 ns.
+Hide r_enc: 448f6402891e9fbd5530a3c84e02c23900d5804f4080c40ced0ba6c886455a48
+Encryption_70 = 13195535 ns.
+Hide r_enc: 448f6402891e9fbd5530a3c84e02c23900d5804f4080c40ced0ba6c886455a48
+Decryption_70 = 19456239 ns.
+keyGeneration_71 = 6947302 ns.
+Hide r_enc: fbfa9b7521442ce2db66c60f41e68e91316f40a9fbc44c369b71ee0cc48e194f
+Encryption_71 = 13910549 ns.
+Hide r_enc: fbfa9b7521442ce2db66c60f41e68e91316f40a9fbc44c369b71ee0cc48e194f
+Decryption_71 = 18381979 ns.
+keyGeneration_72 = 6215067 ns.
+Hide r_enc: bc0d9465462b71dce53313c262da3b7ff779cc937612f25f46765606011bbf21
+Encryption_72 = 15555879 ns.
+Hide r_enc: bc0d9465462b71dce53313c262da3b7ff779cc937612f25f46765606011bbf21
+Decryption_72 = 20333357 ns.
+keyGeneration_73 = 6442504 ns.
+Hide r_enc: afc4b41052f5f5b6156561e306e359b69b510bda9929afffbb3f7a717172497f
+Encryption_73 = 14089882 ns.
+Hide r_enc: afc4b41052f5f5b6156561e306e359b69b510bda9929afffbb3f7a717172497f
+Decryption_73 = 18744085 ns.
+keyGeneration_74 = 6873243 ns.
+Hide r_enc: 716863d2bfff42f267dd262d2b703c0521856f671172d1691f6c943ad54f0fc9
+Encryption_74 = 13532395 ns.
+Hide r_enc: 716863d2bfff42f267dd262d2b703c0521856f671172d1691f6c943ad54f0fc9
+Decryption_74 = 20329040 ns.
+keyGeneration_75 = 7389641 ns.
+Hide r_enc: 6018cb497e48e14bbbe5c8f9fd854ea54fcb60c036d20f9c881e250ddd57a94d
+Encryption_75 = 13231118 ns.
+Hide r_enc: 6018cb497e48e14bbbe5c8f9fd854ea54fcb60c036d20f9c881e250ddd57a94d
+Decryption_75 = 17888864 ns.
+keyGeneration_76 = 6446934 ns.
+Hide r_enc: f4aa2d0c14244191eb35ac66a3f8c4b8ccaba1755538c305a91dca97c7e70104
+Encryption_76 = 13616628 ns.
+Hide r_enc: f4aa2d0c14244191eb35ac66a3f8c4b8ccaba1755538c305a91dca97c7e70104
+Decryption_76 = 19040601 ns.
+keyGeneration_77 = 6819546 ns.
+Hide r_enc: 5f539dc1d906499c9fdc33297448b070e480244db00efa3f7af2b945147e93bc
+Encryption_77 = 14651568 ns.
+Hide r_enc: 5f539dc1d906499c9fdc33297448b070e480244db00efa3f7af2b945147e93bc
+Decryption_77 = 18456014 ns.
+keyGeneration_78 = 6509248 ns.
+Hide r_enc: 60a6875fb1101254a58b358998ec837adbb7692c3f592194ece9d8079bc67e57
+Encryption_78 = 13641625 ns.
+Hide r_enc: 60a6875fb1101254a58b358998ec837adbb7692c3f592194ece9d8079bc67e57
+Decryption_78 = 21324476 ns.
+keyGeneration_79 = 6727001 ns.
+Hide r_enc: 26a74d8aa946d6de343855b0078a5dd3fd7b9ca123bee638e9d03321ac6d6749
+Encryption_79 = 14033532 ns.
+Hide r_enc: 26a74d8aa946d6de343855b0078a5dd3fd7b9ca123bee638e9d03321ac6d6749
+Decryption_79 = 20901615 ns.
+keyGeneration_80 = 7408751 ns.
+Hide r_enc: 128ca5472bb519280abc9c0b97809bbf3002a7a409e9273b47af8f1f40cb61f0
+Encryption_80 = 14819630 ns.
+Hide r_enc: 128ca5472bb519280abc9c0b97809bbf3002a7a409e9273b47af8f1f40cb61f0
+Decryption_80 = 18828249 ns.
+keyGeneration_81 = 6758374 ns.
+Hide r_enc: 72c90c60d18f71f27ef597e5488e35371ffe3da94d7132deb14345d1230bb178
+Encryption_81 = 13163802 ns.
+Hide r_enc: 72c90c60d18f71f27ef597e5488e35371ffe3da94d7132deb14345d1230bb178
+Decryption_81 = 20114969 ns.
+keyGeneration_82 = 6368927 ns.
+Hide r_enc: 549ef188d83e368c3ca4d2a153078143bb60331967d2e15a7cf8a7e7d197d4aa
+Encryption_82 = 13587692 ns.
+Hide r_enc: 549ef188d83e368c3ca4d2a153078143bb60331967d2e15a7cf8a7e7d197d4aa
+Decryption_82 = 19974264 ns.
+keyGeneration_83 = 7148007 ns.
+Hide r_enc: 91e505a7348761c167d3e0c64127da0f98f6b2f56cbbd0ee33590d4d72c7126c
+Encryption_83 = 14379456 ns.
+Hide r_enc: 91e505a7348761c167d3e0c64127da0f98f6b2f56cbbd0ee33590d4d72c7126c
+Decryption_83 = 19393479 ns.
+keyGeneration_84 = 6516750 ns.
+Hide r_enc: 79a866154d551f332ab9c70be1c0903228005d9d087b3bdb20ed5bdf1dc81ca6
+Encryption_84 = 14919847 ns.
+Hide r_enc: 79a866154d551f332ab9c70be1c0903228005d9d087b3bdb20ed5bdf1dc81ca6
+Decryption_84 = 19435236 ns.
+keyGeneration_85 = 6284171 ns.
+Hide r_enc: 66aef259b424d41189680358c0120b19efe58037db02952fa9ea51e8bed1d1c1
+Encryption_85 = 13621123 ns.
+Hide r_enc: 66aef259b424d41189680358c0120b19efe58037db02952fa9ea51e8bed1d1c1
+Decryption_85 = 20196981 ns.
+keyGeneration_86 = 6836220 ns.
+Hide r_enc: 83b689ff452860e349b7dd53e5229ea84af973f754306fed8a5ede207eba5269
+Encryption_86 = 13474285 ns.
+Hide r_enc: 83b689ff452860e349b7dd53e5229ea84af973f754306fed8a5ede207eba5269
+Decryption_86 = 18835822 ns.
+keyGeneration_87 = 6693944 ns.
+Hide r_enc: 227717fc5707d91645be12ccbc4b128b44e4ef067f5a2f2d9fdf045b449ae342
+Encryption_87 = 13463724 ns.
+Hide r_enc: 227717fc5707d91645be12ccbc4b128b44e4ef067f5a2f2d9fdf045b449ae342
+Decryption_87 = 19916414 ns.
+keyGeneration_88 = 7110819 ns.
+Hide r_enc: ba24349cc6c4e556a9fbce3aef98d4b2cc37c8d6a5bb8b48c9c1831533ed1784
+Encryption_88 = 13485491 ns.
+Hide r_enc: ba24349cc6c4e556a9fbce3aef98d4b2cc37c8d6a5bb8b48c9c1831533ed1784
+Decryption_88 = 18458257 ns.
+keyGeneration_89 = 6307922 ns.
+Hide r_enc: 3faf47858c48f1b5e695402c1802b5c301dac58316f0b752b979c36062887cc5
+Encryption_89 = 14590172 ns.
+Hide r_enc: 3faf47858c48f1b5e695402c1802b5c301dac58316f0b752b979c36062887cc5
+Decryption_89 = 19767488 ns.
+keyGeneration_90 = 6605147 ns.
+Hide r_enc: fb5991999f0ab0c394da830c4cb058f34fc633469c91cba2b7a9e66861570d2f
+Encryption_90 = 13241861 ns.
+Hide r_enc: fb5991999f0ab0c394da830c4cb058f34fc633469c91cba2b7a9e66861570d2f
+Decryption_90 = 18659283 ns.
+keyGeneration_91 = 6412233 ns.
+Hide r_enc: d671b336490d499c600814e704448ab3e6ce34e5cabd08b5c3133027d6d04c09
+Encryption_91 = 14583673 ns.
+Hide r_enc: d671b336490d499c600814e704448ab3e6ce34e5cabd08b5c3133027d6d04c09
+Decryption_91 = 19839958 ns.
+keyGeneration_92 = 6980001 ns.
+Hide r_enc: 1cf1562f3b71d095eb5bd55c316c6bef173d8d2380a75425f33a952fdfebd935
+Encryption_92 = 13929889 ns.
+Hide r_enc: 1cf1562f3b71d095eb5bd55c316c6bef173d8d2380a75425f33a952fdfebd935
+Decryption_92 = 19791017 ns.
+keyGeneration_93 = 7973362 ns.
+Hide r_enc: cf94c044dd67454c273101ed618f80dc1ba3c7776f56870830d1ab53cc4cfef8
+Encryption_93 = 13862724 ns.
+Hide r_enc: cf94c044dd67454c273101ed618f80dc1ba3c7776f56870830d1ab53cc4cfef8
+Decryption_93 = 18741357 ns.
+keyGeneration_94 = 6858930 ns.
+Hide r_enc: 1fb654c234acfe878f0a4e73afd40ae6760816a2197cef86b0048adfbda6c55f
+Encryption_94 = 13904255 ns.
+Hide r_enc: 1fb654c234acfe878f0a4e73afd40ae6760816a2197cef86b0048adfbda6c55f
+Decryption_94 = 19574699 ns.
+keyGeneration_95 = 6842519 ns.
+Hide r_enc: 07d2e08c979665830b292f9b8bee981a7f706cc8cef867950c973b66ccf810be
+Encryption_95 = 13805575 ns.
+Hide r_enc: 07d2e08c979665830b292f9b8bee981a7f706cc8cef867950c973b66ccf810be
+Decryption_95 = 18258497 ns.
+keyGeneration_96 = 6425315 ns.
+Hide r_enc: 696655a88805de435fb7ec92d36ca1b5ca43871cdbfe99571589e6703f5d8c96
+Encryption_96 = 13894061 ns.
+Hide r_enc: 696655a88805de435fb7ec92d36ca1b5ca43871cdbfe99571589e6703f5d8c96
+Decryption_96 = 19932695 ns.
+keyGeneration_97 = 7946863 ns.
+Hide r_enc: e2d67f1c3f9b7619df5991b6c98d453bb1088e73efd998363f8af7c58a72cf04
+Encryption_97 = 13944040 ns.
+Hide r_enc: e2d67f1c3f9b7619df5991b6c98d453bb1088e73efd998363f8af7c58a72cf04
+Decryption_97 = 18823163 ns.
+keyGeneration_98 = 6499558 ns.
+Hide r_enc: e35293b0b816454c484bba1ae64838ef3b823de4c365773f16bb0d607485daa0
+Encryption_98 = 13293359 ns.
+Hide r_enc: e35293b0b816454c484bba1ae64838ef3b823de4c365773f16bb0d607485daa0
+Decryption_98 = 20004446 ns.
+keyGeneration_99 = 6869455 ns.
+Hide r_enc: 7848c8e1dcde688cbc026738c03b2efda37a6f3ef829783c086ada43ba440b09
+Encryption_99 = 13732076 ns.
+Hide r_enc: 7848c8e1dcde688cbc026738c03b2efda37a6f3ef829783c086ada43ba440b09
+Decryption_99 = 19835165 ns.

@@ -1,0 +1,17 @@
+Notes:
+1. To add KATNUM to visual code:
+
+https://code.visualstudio.com/docs/cpp/customize-default-settings-cpp
+https://superuser.com/questions/1438520/why-cant-i-view-and-edit-c-cpp-properties-json-in-vscode
+Pressing Control+Shift+P
+Searching for c/c++ edit configuration.
+
+2.  Clean / build:
+2.1		make
+2.2		./build
+2.3		./run
+There is no clean.
+
+Add: 
+	chmod 764 ./run
+	chmod 764 ./build

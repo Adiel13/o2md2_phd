@@ -1,0 +1,37 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(gdb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/statisticsMerger",
+            "args": [
+                "../Statistics/totalStatisticsO2MD2-Nano.csv", 
+                "../Statistics/totalStatisticsNTRU-Nano.csv", 
+                "../Statistics/totalStatisticsNTRU-Prime-Nano.csv", 
+                "../Statistics/totalStatisticsFRODOKEM-Nano.csv", 
+                "../Statistics/totalStatisticsCRYSTAL0512-Nano.csv", 
+                "../Statistics/totalStatisticsCRYSTAL1024-Nano.csv", 
+                "../Statistics/totalStatisticsPapaBear-Nano.csv", 
+                "../Statistics/totalStatisticsMamaBear-Nano.csv", 
+                "../Statistics/totalStatisticsBabyBear-Nano.csv"
+            ],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}

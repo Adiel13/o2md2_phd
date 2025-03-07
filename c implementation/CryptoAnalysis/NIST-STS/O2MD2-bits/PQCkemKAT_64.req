@@ -1,0 +1,900 @@
+count = 0
+seed = 1a 14 11 5 11 7 d 8 a 18 18 0 3 1c 16 9 a 0 6 10 16 8 8 e 15 13 1b 7 1 13 9 1c 6 1a 0 17 1 b 0 9 4 18 8 5 13 1e d 1c 1c 13 d 13 1a 14 0 e 6 1c 16 7 e 0 2 12 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 1
+seed = 18 1 b 17 a 9 2 d 1 a 10 14 7 1d 11 4 10 1d 16 b 12 16 19 18 11 e 1d 0 e 1e 11 6 0 1c 1d 8 6 1d 15 5 6 7 1a b 3 c 10 13 8 7 1c 1a 1b 17 11 e 4 e c 13 d 1d 17 b 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 2
+seed = 18 13 11 1d 12 8 3 16 d 1d 3 10 9 11 5 11 16 0 b 12 17 1a 1e 1a 7 c c 12 a 4 1d 4 17 e 2 8 16 3 1d 4 2 1 12 9 10 15 1a 7 16 4 17 c 1d 17 7 5 4 13 18 c 17 14 e e 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 3
+seed = 3 e 16 19 12 14 1b 14 13 d 1b 4 3 14 9 19 19 2 7 17 19 e 1c 1b 1 13 8 16 9 17 5 c 4 1a 5 16 d 1e 9 2 c 5 4 10 1a e 8 12 e f 8 8 1c 3 2 1d 17 a 12 1 0 18 b 5 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 4
+seed = 13 10 19 1 e 4 1 1a 7 4 9 0 10 12 12 1e 0 1a 5 1c 1e 7 18 14 11 c 15 10 3 1 13 14 10 d 13 1e f 15 17 17 17 2 17 8 14 9 7 12 2 c e 1e 11 5 13 3 f 7 11 12 7 5 7 17 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 5
+seed = 11 1b 14 1 f c 18 7 c f d 1e 16 14 12 18 1e 1 18 10 6 a 11 16 12 2 9 19 7 f f 18 9 2 18 18 e 11 1d 19 1e b 18 15 1d b d 1c a 6 b 11 e 1a 6 1 1c d 18 3 1c 6 1b 4 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 6
+seed = 8 12 1c 15 3 18 f 2 2 8 16 0 12 4 1a 1c 8 6 c 16 0 12 16 1c 1 f 0 1b 16 1a 1 1c d 1b 12 10 15 2 11 15 9 8 16 1b a 11 18 12 16 4 7 14 16 1d 11 15 c 10 12 1 9 11 1d 16 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 7
+seed = d 11 6 1 11 17 17 1a 1d c 16 8 1d e 18 12 12 0 7 7 1c 17 1d 9 6 e a f 0 6 6 b 17 a d a 0 3 5 1d f 1a 4 b 9 1a 1c 19 19 2 1 16 19 1c 1d 0 b 8 f 9 e 14 15 5 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 8
+seed = 1e 1 d 1d 4 10 1b 11 b 1e 1c 12 17 19 a 11 1c a 8 14 7 6 13 11 c 1 18 19 13 e 1e 11 d c f 11 1c 9 3 7 8 1e 17 1 16 3 12 13 d 19 7 12 1d 1a 2 b 19 1b 3 e 8 2 0 16 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 9
+seed = c f 6 7 18 8 e 0 7 7 1 1d 8 11 10 15 9 15 6 8 e 9 11 8 5 14 14 d 14 14 2 1e 2 9 6 1b f 13 1b 14 18 1a 10 1 a 1 14 12 14 1a 18 3 4 8 a 7 1c 1e 13 f 14 15 e 16 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 10
+seed = 1c 12 10 c 6 a 1 1e 3 12 0 c 11 14 1e 7 10 17 8 12 0 12 1a 1a 12 e 8 5 2 16 19 0 9 9 c e 13 c d 15 1c c 2 e 1 1 13 f 16 1c 1 16 d 1b f 1d 8 17 1 a c 1b 8 13 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 11
+seed = 3 13 2 14 0 10 a 1c 1c c 9 1b b 1b c 2 18 b 16 4 5 4 3 d 1b 4 15 8 1d 1c 1c 1 10 1e 14 e d 1e 9 8 a 12 5 13 e f 14 5 1a b a 0 10 b b a f 1e 11 c 1b e b c 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 12
+seed = b 0 1a 17 1d 4 0 8 15 5 1b 2 12 10 8 b 1a 10 b 9 1b 14 13 9 12 5 15 e 11 2 19 1b 0 12 13 1d 17 11 6 b 17 1 d 8 f 15 14 a 4 1d 11 0 11 6 a 4 9 1d 12 1b 1d c 17 1e 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 13
+seed = 0 9 1c 15 1a 2 1e 10 1 c 19 10 1 c 19 5 a b 6 1b f e 1d 19 a 11 13 9 1b 9 6 19 12 1 d d 3 c 1c 2 19 16 11 18 1 b 1d b 14 2 6 5 e 4 1c 19 13 10 1 e 19 7 6 a 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 14
+seed = 8 14 15 a 1e 12 c 16 7 1d f 8 7 e 12 1c e 18 0 1d 1a 1a 15 d 9 16 1b 1 1d 2 b 4 14 1 e 14 12 1b b 19 17 1b 3 0 8 15 1a 14 c 18 12 7 13 6 12 1a 1c e 1b 18 f 7 1d 4 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 15
+seed = 6 a 18 18 6 3 13 1c 1e 14 1a 5 a 13 19 16 c b 1b 1d 11 f 16 d 1b 12 4 b 17 2 e 1b b 7 13 11 a 5 c 7 19 7 c 2 18 7 18 3 10 12 1e 2 0 15 d 1c 8 12 6 1d 12 14 1a 1d 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 16
+seed = 1a e e 5 13 1a b b 1 15 d 19 1a 4 1d b 16 1c e 15 13 1b 12 19 e 16 18 0 c 11 1d 7 1d c a 11 8 15 1a 9 c 8 1 5 c 1e 11 1 1a 1d 16 c 17 7 4 5 1e 1c 5 b c 3 12 a 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 17
+seed = 10 1a 19 16 f 14 0 19 1c 1e 1e 9 1e 10 9 17 e 0 4 5 8 8 a 7 4 f 12 10 12 3 19 3 1b 13 19 b 9 17 5 4 17 5 e 14 13 17 a 1 15 c 6 1d 14 10 3 16 0 13 6 10 16 0 12 11 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 18
+seed = 11 a 1c 1a 1 1 0 16 4 c b 17 2 13 16 17 0 1a 14 12 9 17 a 7 c e 18 1 c b 12 1d 13 e 19 14 f 17 b 11 2 14 7 4 8 1e 19 8 17 c 19 2 3 4 9 f 10 2 e 1c b 0 1a 1d 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 19
+seed = e 12 12 1b 8 1c d a 11 14 c 18 11 5 1e a 11 18 a 14 1a 13 2 b 14 11 8 1d 11 2 1b 1d 14 f 19 1d c 5 6 1b 17 13 14 a 18 14 12 a d 1c 1d 7 10 0 12 3 11 19 2 1 1b 1d 1e e 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 20
+seed = b 16 a 17 1b 11 12 14 3 7 1c 1b 19 d 4 8 a 2 d 18 1 0 1c 12 17 1c 12 13 1a 11 1 7 9 b 1c 3 1a f 17 1d 15 12 17 f 0 1c 15 8 1c 3 2 1d 2 1c f 19 19 2 c 12 11 d 17 18 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 21
+seed = 16 15 1c 10 3 12 c 16 6 5 7 4 0 1a d 1c 1e d 19 1 8 7 18 0 9 5 12 18 12 9 12 8 1e f 18 0 2 5 17 6 a 1c b 8 17 16 4 14 4 1d 13 a 3 d a c 12 1a 3 4 4 15 c 1 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 22
+seed = 5 5 0 6 a 17 c 13 12 15 1b 8 c 0 1d e 1b 11 18 1e 1c 3 9 10 1e d 14 1 3 1 3 7 4 1 d e 16 17 0 9 e 1a 11 1a 1a d a 15 1d 1 12 1a 5 1c 9 2 8 1b 1 9 1c 2 10 1e 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 23
+seed = 3 1b e 19 12 c 3 1 7 13 19 1 1e 2 16 1c 4 7 16 7 4 1d 7 a 1a 8 14 17 b 3 15 e 1d 4 9 10 e a f 16 1b 7 15 1b 8 a 16 c 11 b 11 14 a 18 1e 5 1 11 1a a 13 10 19 f 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 24
+seed = 12 1 0 2 9 d 16 6 12 c 0 1a 16 14 7 8 1 16 1c b f 1a 10 f c 9 19 0 1a 11 f d 12 d d 1a 18 4 1e c e 1c 7 5 11 d c 12 4 7 1b 14 2 a 2 d 14 1b b d e 19 18 1e 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 25
+seed = 5 7 17 1e 9 16 9 18 13 10 1b 4 1b 6 14 1e e 11 13 e 19 13 1b c f 6 19 1b 0 13 19 5 18 11 2 2 7 b 18 1a 1a 13 1c 16 19 12 15 6 2 7 15 1b 18 f 9 9 15 1 3 15 12 1c 19 9 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 26
+seed = f 1b c 16 6 3 f 1 16 d 15 f 1d a 15 0 f 9 19 9 19 1 12 d 3 13 2 13 11 1b 1d 1e 15 8 13 1b b 3 1c 1 e 11 10 c 1b 4 a b e 5 14 6 6 5 11 7 19 13 1b b d 19 a 4 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 27
+seed = 0 1d 1d 9 1e 1b a c d 18 16 7 1d 2 12 a 5 6 10 b b 0 13 3 14 d c 0 5 14 4 5 10 1 e 10 1c 17 1a 8 10 11 d e 11 0 18 16 4 7 3 e 8 14 11 1a 0 1e 1a 5 13 1d 8 5 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 28
+seed = 1e 14 13 19 c e 0 1d 0 d a 12 b 2 9 10 7 a 1e d 1c e 8 1c d 2 0 2 0 8 7 1c 1b 1a 14 8 9 14 4 7 0 d 17 b f 0 19 14 a 16 3 6 6 9 1 13 b 2 13 9 8 18 4 4 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 29
+seed = 13 18 d 1a d f 1 b 1c 18 17 a 18 f 0 2 7 3 8 d a 9 1e 16 9 13 1d 12 c 3 16 1e 1b 2 17 8 12 18 13 d 12 9 18 9 19 18 b 1e 19 13 a 4 1b 9 18 5 1a 17 17 6 18 d 5 12 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 30
+seed = d 1a 1a 1d 14 d c 5 16 5 c e 1b 18 d 13 a 17 17 4 0 f a 18 5 0 1e 1b b 2 e 19 1d 8 17 10 15 2 13 a 7 0 17 1 16 3 14 0 19 b 4 19 18 c 10 1d b 10 19 14 10 6 e e 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 31
+seed = e 5 1c 2 5 e b b f 3 c 4 6 2 4 0 b 7 17 4 11 9 0 1a 17 17 10 8 1d 1e 17 d 2 12 d 8 2 18 13 f 1b 1d 13 1 1d 16 1e 9 1b 17 b b 1e b 7 16 3 17 1e 0 14 14 d 17 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 32
+seed = 6 18 1d 8 12 f 15 c d 9 b c 1d b 13 17 1 0 4 1d 9 b 14 d 3 11 d 17 5 18 d b 11 9 11 2 18 7 d 5 e 18 f b 4 3 3 3 1 7 1 b 10 13 16 13 4 4 a 9 1a 15 12 a 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 33
+seed = 1d 2 b 14 9 18 19 15 11 7 1 14 b 5 17 a a 17 15 1b b c d f e 15 16 7 a 7 12 8 9 1b 1c 10 14 15 5 6 1c 6 18 6 9 11 11 14 9 7 e 12 12 1b 1 1e 10 15 7 1a 1d 17 1 5 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 34
+seed = 13 1b 16 8 11 1b c d 0 6 13 a 17 3 1c 1e 9 b f 1b 5 10 1a 15 7 0 e 3 17 f 8 b c 1c 11 1b 16 1e 9 15 5 1b 0 1a 1e 1a 17 8 6 5 2 9 16 1b 0 1b 1b c 1c 12 1c 5 1d 7 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 35
+seed = 1 e 3 15 d b b 10 7 9 9 4 4 1 d a 6 d 14 1a 9 12 14 4 1e 11 16 19 15 12 1 16 1 3 c e c 16 1c 13 0 6 15 5 5 1 d a f 0 3 16 12 18 1a 10 8 11 8 1d 5 8 14 6 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 36
+seed = b 0 13 15 16 10 9 16 15 1c 19 1a 1e 8 3 e 8 7 5 19 1d 1e 8 6 10 10 5 13 18 17 18 2 15 c 17 c 1a 1e 2 e 1c 1b 8 1b 2 b 8 9 10 b 3 e a b 15 1b 19 1a d 11 10 6 11 7 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 37
+seed = 10 a 11 a 7 11 18 2 e 1 1b e b 2 17 1b e 1a b 18 4 1e 12 1c 17 1 e 8 5 0 f 16 8 0 1 e 11 19 e 1d 19 b d 5 d 5 1 1b 1e a 13 1 9 6 1b 1 5 a 8 b 9 15 0 f 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 38
+seed = 15 1e 1d 8 16 d 6 10 16 11 15 4 15 15 1e 12 1d 10 13 8 16 10 7 1a 18 d 4 0 4 4 10 19 3 e 0 17 19 5 9 10 16 1c 13 a 10 10 1c f 1 f 15 15 1d 1c e 16 b 12 17 d 14 6 5 15 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 39
+seed = 14 6 e d b 17 1b 0 12 d 9 4 1b 6 11 1c 15 7 11 11 2 0 7 b 11 1e 18 6 5 1e 1a 17 3 9 3 e 1e 1d c 11 b 15 13 8 1a 5 3 e a 12 1 d 13 8 18 3 5 10 7 8 f 2 1d 12 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 40
+seed = b 0 1e a 1d 9 1a 9 1d c f 18 12 11 5 1a 4 4 8 15 c 0 18 f 10 1 15 1d 3 14 e d 14 b 17 10 14 10 19 10 1d 8 7 e 19 d 9 1b 11 12 12 1c 10 9 a 1 a 1 1c c 13 b 19 6 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 41
+seed = 14 f 16 7 1 e 18 1c 16 0 b e b 12 b 1b 3 1d 16 13 7 1e 12 10 0 f 1a 11 18 14 17 d 2 e 13 1 1d c 1d 14 a 7 2 16 1a d 10 1b 9 5 10 e 4 3 1e 5 11 19 14 8 c d 14 f 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 42
+seed = 1b 8 10 19 12 d d 1c 12 f 11 b 1a 2 8 4 7 18 12 a 19 10 d 9 8 2 12 15 f 5 3 c d 13 4 0 1e f 1a 12 1c d 1d 17 d 4 19 13 1a d 1d 15 1b b 1c 4 d d 19 1d 12 1c 8 1d 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 43
+seed = f a 1b e 1a 17 1e 17 5 1b 10 10 0 a 4 19 15 2 f 11 b a 16 19 18 e 15 b c 1d 8 19 6 4 8 1 1b 6 19 1e 2 8 10 0 10 12 19 5 15 7 14 1e 12 b 18 9 18 c 12 5 8 1a 1c f 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 44
+seed = 0 5 10 19 9 8 19 9 e 8 8 1d 1a 0 3 10 8 17 e 18 2 7 2 1a 12 12 1d 1a e 1a 8 e 1d 19 6 6 0 0 f d 8 17 b 4 16 c 12 1e 2 1 15 4 7 15 1c 19 8 18 12 16 11 1b 3 e 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 45
+seed = 13 8 14 11 8 2 1e f 18 8 13 f 14 4 c 17 6 2 19 b 15 17 3 1d e 15 13 1e f 14 d 3 1c 0 15 6 0 12 13 18 1b 7 6 e 9 10 6 f 12 1 18 8 16 1b 5 3 12 18 2 2 b d 4 9 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 46
+seed = d 17 d c a 1 3 4 6 a 13 f 1a 17 1d c 18 16 12 d 13 17 11 4 e 11 4 1a 0 8 2 b 1d d 17 7 e 1b 9 12 4 1c 2 1e 15 1d 9 c 13 1c 18 5 12 8 9 2 19 b 1a 17 12 1c 4 10 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 47
+seed = a 19 17 16 15 2 9 19 1c 9 17 10 6 1 1b 19 1b 14 1e f 1c 6 11 16 11 a d 4 5 11 13 d b 9 4 0 9 b 17 7 12 f 15 16 f 11 10 b 6 d 18 3 11 8 18 2 12 4 6 17 15 17 5 1e 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 48
+seed = 2 7 1c 9 10 15 e 2 3 5 18 10 16 8 1a 1b 15 13 1c 6 1c 13 8 d 17 c 6 b 5 9 9 5 f 4 e 1d 17 1d 0 1b 3 19 a 17 2 5 13 15 17 f 1b 14 3 2 2 1b f 6 5 14 e e 19 1b 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 49
+seed = 13 8 19 b 4 1a 5 7 12 e 1d 14 11 11 8 9 1e 3 1b 3 5 1c 1c 14 3 2 7 f f 1e b 1 6 6 c a 1e 10 10 11 1e e 4 e 1d a 18 1d d 14 1 11 f 1b 4 11 1d c 1 d b b e 11 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 50
+seed = f 19 1a e 8 b 1d 5 17 2 13 15 a a 11 18 1d 12 8 d e c 1e b 18 1 16 3 c 4 12 19 1b b 8 2 16 6 7 e 6 18 3 10 4 14 7 2 6 f d 12 1c d 1d 13 c 13 14 16 15 6 10 11 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 51
+seed = 11 18 13 7 1c 18 13 3 11 16 11 13 c 19 15 10 7 4 3 4 f 0 16 1b 11 9 12 7 f 3 18 0 19 a 7 16 3 1a 17 14 12 7 9 1c 1 1c d 9 1e e b e c 0 8 1d a 18 5 17 19 1b 17 13 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 52
+seed = 6 1e 8 7 1a 1d 1c b 6 4 8 7 1e 13 e 1e 0 18 b d 18 12 9 3 b d 19 6 9 11 17 e 11 1 15 a 1c 10 15 3 14 1b 9 12 f 17 11 d e 1a 18 8 d 3 9 19 10 3 1d 17 15 15 4 5 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 53
+seed = 14 18 f 12 7 5 15 1c 1 1e d e 15 1e 1b 4 19 15 a 6 16 14 1d 5 17 1b 1a b f 1d 10 5 16 0 17 1d 3 b 18 4 9 6 10 1c 3 b 1e 1b 1e a 2 15 1e 1d 18 14 19 13 1 9 11 11 c 6 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 54
+seed = 12 4 3 13 e 1b 18 17 1 7 14 4 12 13 1d 11 1d 1d 5 1a 1b 1d 10 15 12 11 1d 2 3 8 7 13 b a 8 19 6 1e 11 5 6 6 8 17 19 6 9 16 5 f 11 1 b 2 15 1b 11 11 1e 13 19 6 5 5 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 55
+seed = e b 1e 12 a e 18 f 14 1 5 d 5 e 2 8 1b 13 8 8 14 1d 2 6 d 1 17 5 5 1d 9 13 9 6 5 12 15 1d 0 8 1c 5 13 0 11 15 9 e a 11 14 1c d 16 3 1a 16 19 1d 19 17 7 c 1e 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 56
+seed = e 11 11 4 d 11 a a 16 1e a 9 14 13 15 1e 3 8 1b 10 1c 1d 9 13 17 8 c d f 18 c 1d 8 1e 0 15 e 9 0 4 8 8 b 1c 1a 1e 1a 1d 7 14 f 4 10 18 16 6 1e 3 13 f 19 1e b 2 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 57
+seed = 1b a 15 a 13 15 c 1b 1b 17 16 16 16 f 13 1b 3 3 1 13 19 15 18 17 16 a 7 10 9 12 10 5 1c 4 10 e 17 1a 8 13 13 0 9 8 d 1c 5 10 1d 6 3 15 19 1b d 10 4 14 1e e 6 f 13 1 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 58
+seed = 13 2 10 b 1d 18 1c f 16 6 17 5 3 1c 13 1 1 16 17 1a 10 5 b 15 18 a 4 1e 17 15 0 9 16 e 12 14 8 10 2 1c 14 19 2 18 15 14 17 16 b f 10 1a 13 19 10 c 3 12 b 1a 8 9 3 1e 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 59
+seed = 16 15 11 1c 4 13 19 17 c 1a 10 2 f 6 16 18 14 7 13 8 0 4 12 3 14 1b 1d 1b 5 1e 1a 1b 15 b 18 17 1c 11 f 9 c 1d 9 19 3 1 12 17 6 7 0 6 9 10 7 1c c 6 18 f 3 11 a 16 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 60
+seed = 1c 1 f 18 12 1c 2 1c 19 a 16 1c b a 14 f f 12 14 16 3 1b 13 f 0 c 1c 4 1e 7 1a 19 9 8 12 1b 6 13 17 1d 1d e 1a 7 16 d 14 4 0 9 1b 1 4 f e 4 1a b 6 17 11 0 f 1a 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 61
+seed = 8 3 14 c 14 c 8 12 19 3 17 10 10 c 15 e 16 f d 18 1c 1b 1a 17 6 2 d 17 0 1d 10 8 1 5 13 13 10 1b 6 a 1d 1d 18 c 8 e 19 1c 1d 7 15 19 2 11 11 6 11 0 1b 11 1b c 17 1a 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 62
+seed = f b e 1d 6 14 8 4 10 0 e 18 c 8 16 9 10 a 3 10 1b 14 14 d 12 10 1e c 1c 17 7 a 1 15 9 5 8 f 9 18 d 16 10 1a 1e 5 4 d f 7 1b a 19 10 17 b 1 15 17 1b b 0 7 a 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 63
+seed = 15 e 10 1e 1b 17 15 a e 4 3 e 7 7 19 17 e 16 2 6 7 17 11 9 d 8 5 16 8 a 2 1b 16 12 18 11 a d 19 17 11 1c 4 19 4 1d f 10 14 f 16 1c 7 7 6 13 f 9 a 15 12 c 11 7 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 64
+seed = 1c 9 18 6 16 12 1d 6 f 2 1d 11 0 b 2 15 1a 17 10 3 1c 14 16 a 1d 1 0 e c f 16 9 16 d f d 1 d 12 e d e 1e e 1a 1e 2 15 14 12 16 11 7 d 1b 3 d 19 10 17 8 7 1 1e 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 65
+seed = 12 f b 11 1a 1b 1e 9 a 1d 17 5 1c 17 19 12 8 10 2 d 1c 1c 10 a 16 1e 0 1c 6 1 1c 17 10 6 9 c 2 8 13 a 6 9 10 2 1 8 14 9 18 16 16 15 13 5 1d 9 5 1d 6 9 1d 1 1 c 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 66
+seed = 5 9 16 5 11 a 10 16 13 1e 18 12 7 b 1b 0 0 10 14 14 14 12 1b 17 f 0 1 d 0 1 19 5 a 11 b 19 1b 1b 10 e 18 7 1 0 12 1b 0 13 c 14 6 1e 6 2 16 15 0 16 3 0 15 1a 6 1d 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 67
+seed = c f 17 7 b 7 15 4 c 14 2 0 10 0 11 1b 15 15 1a 19 15 10 f 15 7 10 16 1c b 1a 1a 16 a 10 1d 13 15 11 17 3 6 17 1 17 17 12 13 b 8 c 5 1d 1c 14 11 4 3 8 1e f 3 19 6 d 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 68
+seed = 9 2 1 1e 13 16 0 19 e 1 f 5 11 3 10 19 e 16 15 b 9 8 10 d e d 1a 10 6 1 1d f 3 1d c 16 12 d e 0 e 1e 5 1 0 15 18 e a d 1a 14 13 9 0 2 16 1a 12 1c 19 f a 1c 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 69
+seed = b 17 11 1d 3 1d 1d 11 1c 3 10 1b 17 8 8 2 13 1 14 7 a 14 7 0 d 18 1a 7 6 4 2 11 1b 13 f 1e 10 e e b f 1d 7 7 6 10 8 19 11 1c 1e 1a 10 6 18 1d 1c 11 4 3 15 6 12 11 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 70
+seed = 18 3 e 9 f 1b 14 1c 19 1c 3 0 b b 17 1a 8 14 13 16 18 c 15 16 1e 19 17 14 0 b 5 16 e 11 0 1b d 15 18 7 10 1b 5 19 7 1c 14 e 11 7 5 b 13 18 0 10 10 17 4 f 3 9 6 f 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 71
+seed = 1a 7 b 9 1a 3 10 9 1e 14 3 5 11 15 11 2 1c 14 b f e 9 0 1c 1 4 c 3 b 13 12 5 18 1c e 11 0 1c 18 1c 11 1b 0 2 f f 2 b 5 b 1a 11 14 18 e 13 1b 1b 16 7 d 8 c 4 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 72
+seed = 3 18 13 1 14 c 1d 6 6 1c 6 15 c 8 1e 11 11 19 1 6 11 10 18 d a f 12 15 15 0 17 18 16 b 19 b 17 16 10 1d 13 16 11 1d 1d 11 10 d 9 11 14 1a 0 b 8 8 1a 1b 1d f 19 15 8 e 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 73
+seed = 1 1 1a 16 17 9 14 9 0 5 7 1b 16 15 a 0 6 1c 1b 4 8 2 d 1 1b 9 10 13 0 17 3 1e 16 1b 16 c 5 9 15 3 e 1a 1d 5 f 6 4 13 1 1d 17 7 1d 5 6 18 f 15 c d d d c 2 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 74
+seed = 7 1 e a 9 4 c 17 1c a 1b a e 1d 1d f 1b 16 14 17 19 1a 10 7 10 1b 12 1b 9 1d 1d f 1e c 19 8 e 6 1e a e 18 14 1a 16 13 8 12 8 1c 8 0 16 19 8 7 15 18 2 1c 16 1d c 14 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 75
+seed = b 5 1a 17 9 19 0 18 12 15 11 9 7 1a 19 f 15 3 f c 1a 15 12 10 f 14 d 4 12 18 18 1b 1d 14 14 7 c 14 1d 0 8 10 7 f 9 0 1c 1e 3 b a 1d 1e 1c c e 11 17 11 2 10 a 1e c 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 76
+seed = 1c 11 12 a 4 e 8 b 1c f 1a 6 f 16 4 10 2 e c 1 b 18 e 1a 11 0 1c 0 8 19 d 6 9 0 e e e 16 17 c 6 12 10 14 7 14 5 9 3 12 9 c 9 17 7 1a 15 3 1b 1d 1a 7 2 5 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 77
+seed = 7 10 11 13 7 9 1d c 19 f 1e 2 2 2 9 4 14 12 10 1c a 16 17 0 17 11 1c 12 18 1e 17 1d 10 9 12 15 10 e 0 b 1b 1e d 1e 2 14 3 14 8 11 11 12 8 8 11 0 19 e 11 11 b 9 f 19 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 78
+seed = 11 0 10 2 f e b b c 16 8 c c b 1e 14 1d f 5 4 17 16 3 f 3 14 1 f 1b f 9 b f 17 e 1c 7 19 7 13 f f 1d 1b 19 1c 10 15 c 15 19 4 b 1a 12 e d 11 1b a 1 4 15 f 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 79
+seed = 1b 2 a 1 1a 11 12 a 0 10 4 19 e 14 f 1a 8 7 1d 11 1 e 1e e 0 1a 16 2 1e b f 19 d 19 1a 6 a e e a 1c 12 2 b 7 f 5 e 14 3 0 15 11 1e 3 f 18 19 f 15 5 1e f 11 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 80
+seed = 17 9 17 2 15 7 a 12 17 c 1c 0 1b 2 c e 3 c 5 12 a 8 2 3 0 12 16 6 11 7 15 7 e d 9 2 12 11 14 b 1b f 9 15 11 15 5 14 0 a 7 8 10 8 b 10 1a 1 14 a 6 a 12 14 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 81
+seed = 18 19 16 9 c 9 12 8 19 1b 1e b f 4 1e 10 c 4 18 1c c 3 b 5 2 1 10 8 b 3 1c 2 1a 11 c 5 1a 1e e 14 19 b 1e 9 d 1b 17 17 0 f 12 b 10 1d 10 12 1e 1e 1a 9 0 17 b 1b 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 82
+seed = 7 15 1 2 13 d 15 d 16 14 14 4 e d 19 c 1c c 17 b b 7 1d 8 6 18 11 7 e 1b 1 15 11 0 15 3 e b 10 3 1d 6 6 c 11 0 19 e d f 19 16 16 15 1e 1b c f 1 1a 9 2 e 18 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 83
+seed = 2 2 1c e c d 12 a 11 16 15 3 16 d f 4 1c 7 18 12 1c 18 e 9 6 f 2 f f e 8 f 11 3 1e 1d 11 f 6 1 6 19 5 1c 7 12 0 3 1a 18 15 15 f 2 0 13 f 0 3 1c d a c 1c 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 84
+seed = d b 18 1c 18 1e 1e 1e 19 2 1a 1e 14 18 2 f f 15 6 0 15 4 13 5 2 15 2 f 0 d a b 18 3 9 12 3 6 f 1a 8 8 19 1c 1 1c b 11 10 f f 7 11 1 c 11 16 d 0 14 1a a 1 11 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 85
+seed = e 8 2 11 e 12 a 16 18 4 11 1a 1e 1a a 10 8 19 17 19 1a 2 a 10 d a 3 6 14 4 16 3 c 18 12 18 9 1c f 3 2 0 1b 1e 1a 6 d 4 0 5 1b 18 6 6 7 11 10 b 16 6 d d 7 18 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 86
+seed = 6 1a 11 e 15 2 11 15 2 d 15 1c 11 3 1e 11 7 1b 8 b 2 10 1c 11 19 13 15 7 1e 1c 0 6 15 12 12 c 14 4 2 14 f 17 f 1e 19 d e 1e 9 16 a 9 5 5 18 1e 17 e 5 16 a 5 1a 0 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 87
+seed = 17 d a a f d 1c 1c 3 b 1b 1a 18 a 19 2 0 4 9 5 8 3 3 0 f 8 16 19 b 10 18 2 1d 3 a e 10 8 b 12 13 6 d c 10 6 c 10 a 15 14 12 16 17 10 7 1d 6 1e 9 16 17 b 14 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 88
+seed = 1b 16 1 a 1c b 1a 10 11 9 1a 2 f 7 11 17 1a 6 9 12 1d 19 17 19 1d 16 3 14 d d 8 9 4 9 11 1 12 d f 4 14 a 5 2 f 16 17 a 1c 1 1a 18 19 12 12 15 8 13 b 15 1 11 1c 3 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 89
+seed = 1a e 4 e 19 11 10 e 19 15 10 9 c 7 14 7 8 d 0 0 1e 10 16 7 5 0 1a 4 11 17 8 a 4 a 16 1e 1c 8 b 16 1d 1a 1e 9 2 11 10 8 1e f 9 1d 0 1d 3 3 1d 1b 8 f 13 e 17 16 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 90
+seed = 18 f 15 13 17 1e 9 13 19 6 1a 1b 17 c 5 16 1b c 13 19 a 14 1b 6 11 4 15 3 10 d 19 7 1a d 1b 10 d 3 3 5 9 1d 2 1 8 5 15 4 11 9 1c 19 1c 18 0 e 1a 13 11 b 1e a 10 1a 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 91
+seed = 15 c b 1 d e 7 16 b 7 15 13 c c 16 1b 13 13 15 10 a 15 1c 3 9 d c 8 17 1c 3 b a d d 15 19 14 d 5 1b 3 19 6 d 10 2 0 2 17 10 c b c f 14 19 1b 1c f 16 1e 1a 1 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 92
+seed = a 8 15 4 1a 3 a 16 4 2 1a 10 12 1c 10 12 12 1e 1e 1d b c 12 3 6 e 12 1c b e 1c 15 16 12 19 12 13 2 7 17 2 3 6 12 0 16 5 11 14 4 f 1d e 3 2 14 f 14 12 1a 3 f 10 18 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 93
+seed = 0 8 9 13 9 10 9 b 11 10 1e 10 5 2 2 19 7 11 16 15 14 18 9 4 b 1b 1c d 9 d 6 9 14 f 1c 1b 1d 4 7 10 14 4 1 1a 7 3 12 c 14 9 0 8 0 9 a c 3 8 19 c 13 1d 13 8 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 94
+seed = d 10 4 b 15 a 19 8 c 1a 1 11 1b 14 1b 11 1b 1c 17 1c 4 2 9 8 a 3 14 1e 1 9 5 c 17 8 15 b 12 10 12 1c 9 13 d 6 8 9 15 5 4 d 2 9 f 9 11 18 a 4 17 9 b 1a 15 2 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 95
+seed = 3 9 d 13 17 1d 11 0 12 1e 6 18 6 1b 1d b 7 1d 14 16 5 4 d f 8 5 18 12 1e c 14 2 14 0 16 a 1e 6 a 11 3 10 a 9 a 7 12 f 3 5 5 9 9 12 16 10 16 e 3 15 1a 17 17 d 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 96
+seed = 15 c 18 14 10 3 6 13 12 f 1b 1a 14 e b 15 12 10 1c 19 3 14 a 19 3 b d 1b 1 6 a 17 10 3 c 2 4 11 13 16 1e f 12 11 1c 1b 7 d c 5 7 d 19 10 6 1a 19 13 16 1b 17 1e 11 7 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 97
+seed = 2 1b 9 7 b 1a 1b 8 9 c 19 4 8 2 11 12 7 16 1 1e 7 5 17 2 18 c 1b f c d 16 c 7 1d 11 13 18 e 1b 2 1a 14 4 4 16 15 16 1b d 15 18 12 1a 10 14 12 1c 10 2 9 1b 18 16 2 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 98
+seed = 14 8 13 d 14 d e 10 2 12 12 18 7 7 12 14 1d b 7 16 1b 1a 9 17 9 b 1 4 2 15 6 16 1c 17 3 f 5 f 0 8 2 10 1e 9 18 10 1b 14 1b 2 b 16 1a 15 e 4 1e d 6 0 2 c 14 1e 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+
+count = 99
+seed = 2 17 e 8 7 d e 8 1b b f 12 1b a 7 18 c 11 d 5 5 1b 7 4 7 e 2 9 18 17 6 1b d 13 4 15 1 12 1b 1a 1b b e 18 15 13 f 0 5 1c 5 a 16 d d 1d 1b f 6 14 5 c 10 13 
+pk =
+sk =
+ct =
+ss =
+ss1 =
+pass? =
+

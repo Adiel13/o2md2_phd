@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
+------------------------------------------------------------------------------
+   generator is <data/PQCkemKAT_64_binary.rsp>
+------------------------------------------------------------------------------
+ C1  C2  C3  C4  C5  C6  C7  C8  C9 C10  P-VALUE  PROPORTION  STATISTICAL TEST
+------------------------------------------------------------------------------
+ 12  16   9  11   4   8  10  10   9  11  0.494392     98/100     Frequency
+ 10  14   8  12   9  11  11  12   8   5  0.739918    100/100     BlockFrequency
+ 10  11  13   8   7  10   6  12   8  15  0.616305     98/100     CumulativeSums
+ 12  10  12  11   5  12   7  13   5  13  0.437274     98/100     CumulativeSums
+ 14   3  12   9  13   9   8   6  12  14  0.213309     98/100     Runs
+ 11   9   7  11  13   9   8   9  10  13  0.935716    100/100     LongestRun
+ 18   0  35   0   0   0  47   0   0   0  0.000000 *  100/100     Rank
+ 10  12   7   7   8  24   0  10  12  10  0.000157     98/100     FFT
+  7   5  17   0  21   0   0   0  50   0  0.000000 *  100/100     OverlappingTemplate
+ 49  27  13   4   1   1   3   2   0   0  0.000000 *   96/100     ApproximateEntropy
+ 11   3   3  14  20   8  18   6   7  10  0.000320    100/100     Serial
+  7  11   5  19  13   4  10  10   8  13  0.042808    100/100     Serial
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The minimum pass rate for each statistical test with the exception of the
+random excursion (variant) test is approximately = 96 for a
+sample size = 100 binary sequences.
+
+For further guidelines construct a probability table using the MAPLE program
+provided in the addendum section of the documentation.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

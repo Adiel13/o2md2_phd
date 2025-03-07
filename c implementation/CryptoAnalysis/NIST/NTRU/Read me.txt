@@ -1,0 +1,11 @@
+NTRU - compile / build comments:
+
+1. Clean / build:
+	-$ make clean
+	-$ make
+	-$ ./PQCgenKAT_kem
+
+2. launch.json:
+	"program": "${workspaceFolder}/PQCgenKAT_kem",
+
+3. 

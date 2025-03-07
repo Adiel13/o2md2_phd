@@ -1,0 +1,10 @@
+Notes:
+
+1. Make / clean:
+1.1 comment lkeccak: 
+	$(CC) $(LDFLAGS) -o $@ $^ -lcrypto #-lkeccak
+1.2 $make clean
+	$make
+
+2. Run:
+./build/genkat

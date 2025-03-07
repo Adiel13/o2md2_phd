@@ -1,0 +1,16 @@
+CC=/usr/bin/gcc
+
+SOURCES = nist/kat_kem.c nist/rng.c aes256ctr.c Decode.c Encode.c int32.c kem.c sha512.c uint32.c uint32_sort.c
+HEADERS = nist/rng.h randombytes.h
+TOTAL = nist/kat_kem.c nist/rng.c nist/rng.h randombytes.h aes256ctr.c Decode.c Encode.c int32.c kem.c sha512.c uint32.c uint32_sort.c
+
+# executableFile: $(HEADERS) $(SOURCES)
+# 	$(CC) -o $@ $(SOURCES) -g
+
+executableFile: $(TOTAL)
+	$(CC) -o $@ $(TOTAL) -g
+	
+.PHONY: clean
+
+clean:
+	-rm executableFile
